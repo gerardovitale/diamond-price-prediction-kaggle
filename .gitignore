@@ -1,7 +1,7 @@
 .ipynb_checkpoints
 __pycache__
 .vscode
-.DS_store
+.DS_Store
 Untitled.ipynb
 check_dataset.ipynb
 scores.csv
